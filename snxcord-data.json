@@ -1,6 +1,13 @@
 {
   "version": 1,
-  "badges": {},
+  "badges": {
+    "1566387153401942076": [
+      {
+        "label": "Mastercard",
+        "preset": "mastercard"
+      }
+    ]
+  },
   "announcements": [
     {
       "id": "1795216616158",
